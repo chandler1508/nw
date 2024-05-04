@@ -1,0 +1,23 @@
+body{
+    background-image: url(../photosandgifs/Untitled\ design.gif);
+}
+h1,h2,p {
+    font-family: sans-serif;
+    color: blueviolet;
+}
+li {
+    font-family: sans-serif;
+    list-style:upper-roman;
+    text-decoration: underline;
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+    font-family:cursive;
+    text-decoration: underline;
+    
+}
+footer{
+    color: blueviolet;
+    font-weight: bold;
+}
